@@ -1,0 +1,534 @@
+[
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 246,
+    "time": 53749,
+    "errors": 5,
+    "speed": 274.60976018158476,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 44, "missCount": 0, "timeToType": 217 },
+      { "codePoint": 97, "hitCount": 34, "missCount": 1, "timeToType": 195 },
+      { "codePoint": 101, "hitCount": 32, "missCount": 2, "timeToType": 184 },
+      { "codePoint": 105, "hitCount": 38, "missCount": 0, "timeToType": 201 },
+      { "codePoint": 108, "hitCount": 47, "missCount": 0, "timeToType": 218 },
+      { "codePoint": 110, "hitCount": 25, "missCount": 1, "timeToType": 243 },
+      { "codePoint": 114, "hitCount": 25, "missCount": 1, "timeToType": 232 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 252,
+    "time": 53998,
+    "errors": 5,
+    "speed": 280.0103707544724,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 48, "missCount": 1, "timeToType": 229 },
+      { "codePoint": 97, "hitCount": 36, "missCount": 0, "timeToType": 204 },
+      { "codePoint": 101, "hitCount": 32, "missCount": 2, "timeToType": 171 },
+      { "codePoint": 105, "hitCount": 28, "missCount": 1, "timeToType": 192 },
+      { "codePoint": 108, "hitCount": 57, "missCount": 0, "timeToType": 200 },
+      { "codePoint": 110, "hitCount": 25, "missCount": 1, "timeToType": 210 },
+      { "codePoint": 114, "hitCount": 25, "missCount": 0, "timeToType": 225 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 247,
+    "time": 50933,
+    "errors": 11,
+    "speed": 290.9704906445723,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 46, "missCount": 3, "timeToType": 207 },
+      { "codePoint": 97, "hitCount": 35, "missCount": 3, "timeToType": 200 },
+      { "codePoint": 101, "hitCount": 31, "missCount": 1, "timeToType": 152 },
+      { "codePoint": 105, "hitCount": 33, "missCount": 0, "timeToType": 187 },
+      { "codePoint": 108, "hitCount": 51, "missCount": 0, "timeToType": 211 },
+      { "codePoint": 110, "hitCount": 27, "missCount": 3, "timeToType": 187 },
+      { "codePoint": 114, "hitCount": 23, "missCount": 1, "timeToType": 153 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 247,
+    "time": 55799,
+    "errors": 8,
+    "speed": 265.59615763723366,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 45, "missCount": 0, "timeToType": 216 },
+      { "codePoint": 97, "hitCount": 28, "missCount": 4, "timeToType": 264 },
+      { "codePoint": 101, "hitCount": 44, "missCount": 1, "timeToType": 202 },
+      { "codePoint": 105, "hitCount": 23, "missCount": 0, "timeToType": 231 },
+      { "codePoint": 108, "hitCount": 65, "missCount": 1, "timeToType": 188 },
+      { "codePoint": 110, "hitCount": 23, "missCount": 0, "timeToType": 197 },
+      { "codePoint": 114, "hitCount": 18, "missCount": 2, "timeToType": 305 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 247,
+    "time": 54852,
+    "errors": 14,
+    "speed": 270.1815795230803,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 45, "missCount": 0, "timeToType": 209 },
+      { "codePoint": 97, "hitCount": 29, "missCount": 3, "timeToType": 258 },
+      { "codePoint": 101, "hitCount": 46, "missCount": 2, "timeToType": 166 },
+      { "codePoint": 105, "hitCount": 23, "missCount": 1, "timeToType": 225 },
+      { "codePoint": 108, "hitCount": 63, "missCount": 3, "timeToType": 189 },
+      { "codePoint": 110, "hitCount": 22, "missCount": 2, "timeToType": 179 },
+      { "codePoint": 114, "hitCount": 18, "missCount": 3, "timeToType": 273 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 249,
+    "time": 58850,
+    "errors": 17,
+    "speed": 253.8657604078165,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 46, "missCount": 1, "timeToType": 198 },
+      { "codePoint": 97, "hitCount": 30, "missCount": 4, "timeToType": 236 },
+      { "codePoint": 101, "hitCount": 41, "missCount": 4, "timeToType": 209 },
+      { "codePoint": 105, "hitCount": 26, "missCount": 3, "timeToType": 261 },
+      { "codePoint": 108, "hitCount": 71, "missCount": 3, "timeToType": 187 },
+      { "codePoint": 110, "hitCount": 18, "missCount": 0, "timeToType": 202 },
+      { "codePoint": 114, "hitCount": 16, "missCount": 2, "timeToType": 312 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 247,
+    "time": 63879,
+    "errors": 15,
+    "speed": 232.001127130982,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 43, "missCount": 1, "timeToType": 188 },
+      { "codePoint": 97, "hitCount": 27, "missCount": 2, "timeToType": 255 },
+      { "codePoint": 101, "hitCount": 34, "missCount": 2, "timeToType": 196 },
+      { "codePoint": 105, "hitCount": 22, "missCount": 1, "timeToType": 254 },
+      { "codePoint": 108, "hitCount": 18, "missCount": 1, "timeToType": 238 },
+      { "codePoint": 110, "hitCount": 21, "missCount": 1, "timeToType": 267 },
+      { "codePoint": 114, "hitCount": 18, "missCount": 2, "timeToType": 246 },
+      { "codePoint": 116, "hitCount": 63, "missCount": 5, "timeToType": 197 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 249,
+    "time": 74054,
+    "errors": 25,
+    "speed": 201.74467280633053,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 46, "missCount": 1, "timeToType": 215 },
+      { "codePoint": 97, "hitCount": 6, "missCount": 1, "timeToType": 320 },
+      { "codePoint": 101, "hitCount": 32, "missCount": 2, "timeToType": 262 },
+      { "codePoint": 105, "hitCount": 9, "missCount": 3, "timeToType": 482 },
+      { "codePoint": 108, "hitCount": 13, "missCount": 2, "timeToType": 196 },
+      { "codePoint": 110, "hitCount": 39, "missCount": 1, "timeToType": 237 },
+      { "codePoint": 111, "hitCount": 57, "missCount": 4, "timeToType": 210 },
+      { "codePoint": 114, "hitCount": 26, "missCount": 11, "timeToType": 383 },
+      { "codePoint": 116, "hitCount": 20, "missCount": 0, "timeToType": 300 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 255,
+    "time": 70990,
+    "errors": 6,
+    "speed": 215.52331314269617,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 51, "missCount": 0, "timeToType": 216 },
+      { "codePoint": 97, "hitCount": 18, "missCount": 0, "timeToType": 262 },
+      { "codePoint": 101, "hitCount": 40, "missCount": 1, "timeToType": 262 },
+      { "codePoint": 105, "hitCount": 10, "missCount": 1, "timeToType": 179 },
+      { "codePoint": 108, "hitCount": 13, "missCount": 0, "timeToType": 434 },
+      { "codePoint": 110, "hitCount": 10, "missCount": 0, "timeToType": 234 },
+      { "codePoint": 111, "hitCount": 7, "missCount": 0, "timeToType": 184 },
+      { "codePoint": 114, "hitCount": 14, "missCount": 1, "timeToType": 511 },
+      { "codePoint": 115, "hitCount": 67, "missCount": 3, "timeToType": 239 },
+      { "codePoint": 116, "hitCount": 24, "missCount": 0, "timeToType": 297 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 236,
+    "time": 71628,
+    "errors": 9,
+    "speed": 197.68805495057796,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 36, "missCount": 0, "timeToType": 205 },
+      { "codePoint": 97, "hitCount": 19, "missCount": 1, "timeToType": 271 },
+      { "codePoint": 101, "hitCount": 18, "missCount": 1, "timeToType": 206 },
+      { "codePoint": 105, "hitCount": 7, "missCount": 0, "timeToType": 377 },
+      { "codePoint": 108, "hitCount": 18, "missCount": 0, "timeToType": 222 },
+      { "codePoint": 110, "hitCount": 22, "missCount": 1, "timeToType": 353 },
+      { "codePoint": 111, "hitCount": 9, "missCount": 0, "timeToType": 210 },
+      { "codePoint": 114, "hitCount": 18, "missCount": 0, "timeToType": 471 },
+      { "codePoint": 115, "hitCount": 21, "missCount": 2, "timeToType": 250 },
+      { "codePoint": 116, "hitCount": 22, "missCount": 1, "timeToType": 250 },
+      { "codePoint": 117, "hitCount": 45, "missCount": 3, "timeToType": 319 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 250,
+    "time": 84946,
+    "errors": 18,
+    "speed": 176.58277023049936,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 48, "missCount": 2, "timeToType": 228 },
+      { "codePoint": 97, "hitCount": 13, "missCount": 2, "timeToType": 296 },
+      { "codePoint": 100, "hitCount": 58, "missCount": 4, "timeToType": 316 },
+      { "codePoint": 101, "hitCount": 29, "missCount": 0, "timeToType": 308 },
+      { "codePoint": 105, "hitCount": 17, "missCount": 4, "timeToType": 241 },
+      { "codePoint": 108, "hitCount": 10, "missCount": 0, "timeToType": 230 },
+      { "codePoint": 110, "hitCount": 22, "missCount": 3, "timeToType": 267 },
+      { "codePoint": 111, "hitCount": 16, "missCount": 2, "timeToType": 394 },
+      { "codePoint": 114, "hitCount": 17, "missCount": 0, "timeToType": 521 },
+      { "codePoint": 115, "hitCount": 6, "missCount": 0, "timeToType": 429 },
+      { "codePoint": 116, "hitCount": 5, "missCount": 0, "timeToType": 326 },
+      { "codePoint": 117, "hitCount": 8, "missCount": 1, "timeToType": 421 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 249,
+    "time": 83127,
+    "errors": 16,
+    "speed": 179.72499909776607,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 45, "missCount": 0, "timeToType": 223 },
+      { "codePoint": 97, "hitCount": 18, "missCount": 3, "timeToType": 222 },
+      { "codePoint": 100, "hitCount": 13, "missCount": 2, "timeToType": 375 },
+      { "codePoint": 101, "hitCount": 28, "missCount": 0, "timeToType": 219 },
+      { "codePoint": 105, "hitCount": 19, "missCount": 3, "timeToType": 381 },
+      { "codePoint": 108, "hitCount": 8, "missCount": 0, "timeToType": 228 },
+      { "codePoint": 110, "hitCount": 11, "missCount": 1, "timeToType": 321 },
+      { "codePoint": 111, "hitCount": 11, "missCount": 0, "timeToType": 219 },
+      { "codePoint": 114, "hitCount": 54, "missCount": 2, "timeToType": 339 },
+      { "codePoint": 115, "hitCount": 15, "missCount": 2, "timeToType": 375 },
+      { "codePoint": 116, "hitCount": 16, "missCount": 1, "timeToType": 445 },
+      { "codePoint": 117, "hitCount": 10, "missCount": 2, "timeToType": 528 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 238,
+    "time": 76166,
+    "errors": 12,
+    "speed": 187.48522963001867,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 36, "missCount": 1, "timeToType": 209 },
+      { "codePoint": 97, "hitCount": 13, "missCount": 1, "timeToType": 201 },
+      { "codePoint": 100, "hitCount": 13, "missCount": 2, "timeToType": 376 },
+      { "codePoint": 101, "hitCount": 20, "missCount": 0, "timeToType": 253 },
+      { "codePoint": 105, "hitCount": 8, "missCount": 2, "timeToType": 326 },
+      { "codePoint": 108, "hitCount": 20, "missCount": 2, "timeToType": 233 },
+      { "codePoint": 110, "hitCount": 23, "missCount": 0, "timeToType": 270 },
+      { "codePoint": 111, "hitCount": 12, "missCount": 0, "timeToType": 348 },
+      { "codePoint": 114, "hitCount": 12, "missCount": 1, "timeToType": 443 },
+      { "codePoint": 115, "hitCount": 17, "missCount": 0, "timeToType": 231 },
+      { "codePoint": 116, "hitCount": 19, "missCount": 0, "timeToType": 346 },
+      { "codePoint": 117, "hitCount": 44, "missCount": 3, "timeToType": 378 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 242,
+    "time": 80364,
+    "errors": 9,
+    "speed": 180.6779154845453,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 37, "missCount": 0, "timeToType": 207 },
+      { "codePoint": 97, "hitCount": 13, "missCount": 0, "timeToType": 219 },
+      { "codePoint": 100, "hitCount": 14, "missCount": 2, "timeToType": 367 },
+      { "codePoint": 101, "hitCount": 19, "missCount": 1, "timeToType": 271 },
+      { "codePoint": 105, "hitCount": 8, "missCount": 2, "timeToType": 328 },
+      { "codePoint": 108, "hitCount": 17, "missCount": 0, "timeToType": 244 },
+      { "codePoint": 110, "hitCount": 24, "missCount": 1, "timeToType": 284 },
+      { "codePoint": 111, "hitCount": 11, "missCount": 0, "timeToType": 250 },
+      { "codePoint": 114, "hitCount": 19, "missCount": 2, "timeToType": 488 },
+      { "codePoint": 115, "hitCount": 17, "missCount": 0, "timeToType": 284 },
+      { "codePoint": 116, "hitCount": 22, "missCount": 1, "timeToType": 487 },
+      { "codePoint": 117, "hitCount": 40, "missCount": 0, "timeToType": 296 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 252,
+    "time": 68242,
+    "errors": 16,
+    "speed": 221.56443246094778,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 45, "missCount": 1, "timeToType": 182 },
+      { "codePoint": 97, "hitCount": 21, "missCount": 2, "timeToType": 261 },
+      { "codePoint": 100, "hitCount": 13, "missCount": 2, "timeToType": 393 },
+      { "codePoint": 101, "hitCount": 28, "missCount": 0, "timeToType": 191 },
+      { "codePoint": 105, "hitCount": 21, "missCount": 0, "timeToType": 294 },
+      { "codePoint": 108, "hitCount": 6, "missCount": 0, "timeToType": 203 },
+      { "codePoint": 110, "hitCount": 19, "missCount": 0, "timeToType": 233 },
+      { "codePoint": 111, "hitCount": 11, "missCount": 0, "timeToType": 207 },
+      { "codePoint": 114, "hitCount": 52, "missCount": 6, "timeToType": 239 },
+      { "codePoint": 115, "hitCount": 13, "missCount": 2, "timeToType": 318 },
+      { "codePoint": 116, "hitCount": 12, "missCount": 3, "timeToType": 373 },
+      { "codePoint": 117, "hitCount": 10, "missCount": 0, "timeToType": 286 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 242,
+    "time": 69891,
+    "errors": 19,
+    "speed": 207.75207108211356,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 42, "missCount": 1, "timeToType": 201 },
+      { "codePoint": 97, "hitCount": 18, "missCount": 1, "timeToType": 231 },
+      { "codePoint": 100, "hitCount": 13, "missCount": 0, "timeToType": 405 },
+      { "codePoint": 101, "hitCount": 25, "missCount": 1, "timeToType": 216 },
+      { "codePoint": 105, "hitCount": 23, "missCount": 2, "timeToType": 340 },
+      { "codePoint": 108, "hitCount": 7, "missCount": 1, "timeToType": 257 },
+      { "codePoint": 110, "hitCount": 14, "missCount": 0, "timeToType": 209 },
+      { "codePoint": 111, "hitCount": 8, "missCount": 2, "timeToType": 219 },
+      { "codePoint": 114, "hitCount": 53, "missCount": 7, "timeToType": 238 },
+      { "codePoint": 115, "hitCount": 11, "missCount": 2, "timeToType": 344 },
+      { "codePoint": 116, "hitCount": 13, "missCount": 0, "timeToType": 362 },
+      { "codePoint": 117, "hitCount": 14, "missCount": 2, "timeToType": 307 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 246,
+    "time": 72411,
+    "errors": 22,
+    "speed": 203.83643369101378,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 44, "missCount": 2, "timeToType": 187 },
+      { "codePoint": 97, "hitCount": 18, "missCount": 2, "timeToType": 315 },
+      { "codePoint": 100, "hitCount": 57, "missCount": 5, "timeToType": 236 },
+      { "codePoint": 101, "hitCount": 27, "missCount": 2, "timeToType": 182 },
+      { "codePoint": 105, "hitCount": 27, "missCount": 5, "timeToType": 210 },
+      { "codePoint": 108, "hitCount": 6, "missCount": 0, "timeToType": 338 },
+      { "codePoint": 110, "hitCount": 27, "missCount": 0, "timeToType": 191 },
+      { "codePoint": 111, "hitCount": 7, "missCount": 3, "timeToType": 208 },
+      { "codePoint": 114, "hitCount": 12, "missCount": 0, "timeToType": 391 },
+      { "codePoint": 115, "hitCount": 8, "missCount": 0, "timeToType": 469 },
+      { "codePoint": 116, "hitCount": 6, "missCount": 1, "timeToType": 412 },
+      { "codePoint": 117, "hitCount": 6, "missCount": 2, "timeToType": 377 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 241,
+    "time": 68132,
+    "errors": 14,
+    "speed": 212.2350730934069,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 41, "missCount": 2, "timeToType": 190 },
+      { "codePoint": 97, "hitCount": 24, "missCount": 2, "timeToType": 242 },
+      { "codePoint": 100, "hitCount": 8, "missCount": 1, "timeToType": 412 },
+      { "codePoint": 101, "hitCount": 27, "missCount": 1, "timeToType": 170 },
+      { "codePoint": 105, "hitCount": 13, "missCount": 3, "timeToType": 327 },
+      { "codePoint": 108, "hitCount": 8, "missCount": 0, "timeToType": 147 },
+      { "codePoint": 110, "hitCount": 24, "missCount": 1, "timeToType": 240 },
+      { "codePoint": 111, "hitCount": 11, "missCount": 2, "timeToType": 308 },
+      { "codePoint": 114, "hitCount": 47, "missCount": 0, "timeToType": 264 },
+      { "codePoint": 115, "hitCount": 8, "missCount": 0, "timeToType": 278 },
+      { "codePoint": 116, "hitCount": 14, "missCount": 2, "timeToType": 441 },
+      { "codePoint": 117, "hitCount": 15, "missCount": 0, "timeToType": 335 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 250,
+    "time": 70515,
+    "errors": 16,
+    "speed": 212.72069772388852,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 50, "missCount": 1, "timeToType": 183 },
+      { "codePoint": 97, "hitCount": 14, "missCount": 1, "timeToType": 337 },
+      { "codePoint": 100, "hitCount": 60, "missCount": 2, "timeToType": 221 },
+      { "codePoint": 101, "hitCount": 28, "missCount": 1, "timeToType": 187 },
+      { "codePoint": 105, "hitCount": 17, "missCount": 2, "timeToType": 243 },
+      { "codePoint": 108, "hitCount": 13, "missCount": 0, "timeToType": 287 },
+      { "codePoint": 110, "hitCount": 18, "missCount": 0, "timeToType": 251 },
+      { "codePoint": 111, "hitCount": 11, "missCount": 1, "timeToType": 306 },
+      { "codePoint": 114, "hitCount": 13, "missCount": 0, "timeToType": 390 },
+      { "codePoint": 115, "hitCount": 8, "missCount": 3, "timeToType": 520 },
+      { "codePoint": 116, "hitCount": 3, "missCount": 0, "timeToType": 605 },
+      { "codePoint": 117, "hitCount": 14, "missCount": 5, "timeToType": 289 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 248,
+    "time": 70130,
+    "errors": 14,
+    "speed": 212.17738485669474,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 45, "missCount": 1, "timeToType": 200 },
+      { "codePoint": 97, "hitCount": 15, "missCount": 0, "timeToType": 255 },
+      { "codePoint": 100, "hitCount": 9, "missCount": 0, "timeToType": 438 },
+      { "codePoint": 101, "hitCount": 32, "missCount": 3, "timeToType": 224 },
+      { "codePoint": 105, "hitCount": 18, "missCount": 0, "timeToType": 239 },
+      { "codePoint": 108, "hitCount": 12, "missCount": 0, "timeToType": 218 },
+      { "codePoint": 110, "hitCount": 21, "missCount": 1, "timeToType": 210 },
+      { "codePoint": 111, "hitCount": 10, "missCount": 2, "timeToType": 302 },
+      { "codePoint": 114, "hitCount": 16, "missCount": 1, "timeToType": 354 },
+      { "codePoint": 115, "hitCount": 6, "missCount": 2, "timeToType": 327 },
+      { "codePoint": 116, "hitCount": 52, "missCount": 4, "timeToType": 264 },
+      { "codePoint": 117, "hitCount": 11, "missCount": 0, "timeToType": 350 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 251,
+    "time": 76486,
+    "errors": 15,
+    "speed": 196.89877886149097,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 49, "missCount": 2, "timeToType": 189 },
+      { "codePoint": 97, "hitCount": 18, "missCount": 1, "timeToType": 239 },
+      { "codePoint": 100, "hitCount": 63, "missCount": 2, "timeToType": 257 },
+      { "codePoint": 101, "hitCount": 31, "missCount": 2, "timeToType": 247 },
+      { "codePoint": 105, "hitCount": 18, "missCount": 0, "timeToType": 271 },
+      { "codePoint": 108, "hitCount": 13, "missCount": 0, "timeToType": 268 },
+      { "codePoint": 110, "hitCount": 13, "missCount": 0, "timeToType": 265 },
+      { "codePoint": 111, "hitCount": 12, "missCount": 1, "timeToType": 321 },
+      { "codePoint": 114, "hitCount": 13, "missCount": 2, "timeToType": 607 },
+      { "codePoint": 115, "hitCount": 9, "missCount": 2, "timeToType": 535 },
+      { "codePoint": 116, "hitCount": 1, "missCount": 0, "timeToType": 533 },
+      { "codePoint": 117, "hitCount": 10, "missCount": 3, "timeToType": 508 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 242,
+    "time": 81229,
+    "errors": 18,
+    "speed": 178.75389331396423,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 42, "missCount": 2, "timeToType": 183 },
+      { "codePoint": 97, "hitCount": 18, "missCount": 1, "timeToType": 262 },
+      { "codePoint": 100, "hitCount": 15, "missCount": 3, "timeToType": 429 },
+      { "codePoint": 101, "hitCount": 27, "missCount": 1, "timeToType": 222 },
+      { "codePoint": 105, "hitCount": 18, "missCount": 1, "timeToType": 287 },
+      { "codePoint": 108, "hitCount": 4, "missCount": 0, "timeToType": 237 },
+      { "codePoint": 110, "hitCount": 23, "missCount": 2, "timeToType": 231 },
+      { "codePoint": 111, "hitCount": 8, "missCount": 1, "timeToType": 164 },
+      { "codePoint": 114, "hitCount": 48, "missCount": 2, "timeToType": 343 },
+      { "codePoint": 115, "hitCount": 12, "missCount": 1, "timeToType": 417 },
+      { "codePoint": 116, "hitCount": 14, "missCount": 1, "timeToType": 474 },
+      { "codePoint": 117, "hitCount": 12, "missCount": 3, "timeToType": 329 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 246,
+    "time": 82575,
+    "errors": 12,
+    "speed": 178.7465940054496,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 44, "missCount": 0, "timeToType": 193 },
+      { "codePoint": 97, "hitCount": 11, "missCount": 0, "timeToType": 261 },
+      { "codePoint": 100, "hitCount": 7, "missCount": 1, "timeToType": 451 },
+      { "codePoint": 101, "hitCount": 26, "missCount": 0, "timeToType": 280 },
+      { "codePoint": 105, "hitCount": 17, "missCount": 2, "timeToType": 278 },
+      { "codePoint": 108, "hitCount": 15, "missCount": 0, "timeToType": 293 },
+      { "codePoint": 110, "hitCount": 13, "missCount": 1, "timeToType": 246 },
+      { "codePoint": 111, "hitCount": 18, "missCount": 3, "timeToType": 352 },
+      { "codePoint": 114, "hitCount": 14, "missCount": 1, "timeToType": 464 },
+      { "codePoint": 115, "hitCount": 14, "missCount": 1, "timeToType": 331 },
+      { "codePoint": 116, "hitCount": 56, "missCount": 3, "timeToType": 296 },
+      { "codePoint": 117, "hitCount": 10, "missCount": 0, "timeToType": 605 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 238,
+    "time": 79731,
+    "errors": 6,
+    "speed": 179.10223125258685,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 38, "missCount": 0, "timeToType": 211 },
+      { "codePoint": 97, "hitCount": 17, "missCount": 0, "timeToType": 235 },
+      { "codePoint": 100, "hitCount": 13, "missCount": 2, "timeToType": 382 },
+      { "codePoint": 101, "hitCount": 16, "missCount": 0, "timeToType": 348 },
+      { "codePoint": 105, "hitCount": 5, "missCount": 1, "timeToType": 421 },
+      { "codePoint": 108, "hitCount": 24, "missCount": 0, "timeToType": 258 },
+      { "codePoint": 110, "hitCount": 21, "missCount": 0, "timeToType": 291 },
+      { "codePoint": 111, "hitCount": 8, "missCount": 0, "timeToType": 389 },
+      { "codePoint": 114, "hitCount": 11, "missCount": 1, "timeToType": 440 },
+      { "codePoint": 115, "hitCount": 17, "missCount": 0, "timeToType": 321 },
+      { "codePoint": 116, "hitCount": 25, "missCount": 1, "timeToType": 421 },
+      { "codePoint": 117, "hitCount": 42, "missCount": 1, "timeToType": 406 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 246,
+    "time": 76714,
+    "errors": 9,
+    "speed": 192.4029512214198,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 44, "missCount": 0, "timeToType": 201 },
+      { "codePoint": 97, "hitCount": 20, "missCount": 0, "timeToType": 246 },
+      { "codePoint": 100, "hitCount": 8, "missCount": 1, "timeToType": 403 },
+      { "codePoint": 101, "hitCount": 25, "missCount": 0, "timeToType": 161 },
+      { "codePoint": 105, "hitCount": 13, "missCount": 0, "timeToType": 305 },
+      { "codePoint": 108, "hitCount": 9, "missCount": 0, "timeToType": 223 },
+      { "codePoint": 110, "hitCount": 22, "missCount": 2, "timeToType": 292 },
+      { "codePoint": 111, "hitCount": 9, "missCount": 0, "timeToType": 287 },
+      { "codePoint": 114, "hitCount": 47, "missCount": 2, "timeToType": 323 },
+      { "codePoint": 115, "hitCount": 14, "missCount": 1, "timeToType": 343 },
+      { "codePoint": 116, "hitCount": 17, "missCount": 2, "timeToType": 552 },
+      { "codePoint": 117, "hitCount": 17, "missCount": 1, "timeToType": 361 }
+    ]
+  },
+  {
+    "layout": "en-us",
+    "textType": "generated",
+    "length": 245,
+    "time": 77719,
+    "errors": 6,
+    "speed": 189.14293802030392,
+    "histogram": [
+      { "codePoint": 32, "hitCount": 43, "missCount": 0, "timeToType": 196 },
+      { "codePoint": 97, "hitCount": 21, "missCount": 0, "timeToType": 301 },
+      { "codePoint": 100, "hitCount": 9, "missCount": 0, "timeToType": 471 },
+      { "codePoint": 101, "hitCount": 24, "missCount": 1, "timeToType": 298 },
+      { "codePoint": 105, "hitCount": 15, "missCount": 0, "timeToType": 406 },
+      { "codePoint": 108, "hitCount": 11, "missCount": 0, "timeToType": 188 },
+      { "codePoint": 110, "hitCount": 18, "missCount": 0, "timeToType": 240 },
+      { "codePoint": 111, "hitCount": 15, "missCount": 1, "timeToType": 305 },
+      { "codePoint": 114, "hitCount": 11, "missCount": 1, "timeToType": 506 },
+      { "codePoint": 115, "hitCount": 10, "missCount": 0, "timeToType": 285 },
+      { "codePoint": 116, "hitCount": 57, "missCount": 2, "timeToType": 267 },
+      { "codePoint": 117, "hitCount": 10, "missCount": 1, "timeToType": 626 }
+    ]
+  }
+]
