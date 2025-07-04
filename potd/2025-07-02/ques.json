@@ -1,6 +1,8 @@
-{
-    "platform": "leetcode",
-    "number": "136",
-    "name": "single-number",
-    "link": "https://leetcode.com/problems/single-number/description/"
-}
+[
+    {
+        "platform": "leetcode",
+        "number": "136",
+        "name": "single-number",
+        "link": "https://leetcode.com/problems/single-number/description/"
+    }
+]

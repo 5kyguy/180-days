@@ -1,6 +1,14 @@
-{
-    "platform": "leetcode",
-    "number": "169",
-    "name": "majority-element",
-    "link": "https://leetcode.com/problems/majority-element/description/"
-}
+[
+    {
+        "platform": "leetcode",
+        "number": "169",
+        "name": "majority-element",
+        "link": "https://leetcode.com/problems/majority-element/description/"
+    },
+    {
+        "platform": "leetcode",
+        "number": "268",
+        "name": "missing-number",
+        "link": "https://leetcode.com/problems/missing-number/description/"
+    }
+]
