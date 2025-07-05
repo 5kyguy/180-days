@@ -1,0 +1,14 @@
+[
+    {
+        "platform": "leetcode",
+        "number": "283",
+        "name": "move-zeroes",
+        "link": "https://leetcode.com/problems/move-zeroes/description/"
+    },
+    {
+        "platform": "leetcode",
+        "number": "485",
+        "name": "max-consecutive-ones",
+        "link": "https://leetcode.com/problems/max-consecutive-ones/description/"
+    }
+]
