@@ -1,0 +1,14 @@
+[
+    {
+        "platform": "leetcode",
+        "number": "31",
+        "name": "next-permutation",
+        "link": "https://leetcode.com/problems/next-permutation/description/"
+    },
+    {
+        "platform": "leetcode",
+        "number": "48",
+        "name": "rotate-image",
+        "link": "https://leetcode.com/problems/rotate-image/description/"
+    }
+]
