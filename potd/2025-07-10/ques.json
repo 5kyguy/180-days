@@ -1,0 +1,32 @@
+[
+    {
+        "platform": "leetcode",
+        "number": "13",
+        "name": "roman-to-integer",
+        "link": "https://leetcode.com/problems/roman-to-integer/description/"
+    },
+    {
+        "platform": "leetcode",
+        "number": "14",
+        "name": "longest-common-prefix",
+        "link": "https://leetcode.com/problems/longest-common-prefix/description/"
+    },
+    {
+        "platform": "leetcode",
+        "number": "20",
+        "name": "valid-parentheses",
+        "link": "https://leetcode.com/problems/valid-parentheses/description/"
+    },
+    {
+        "platform": "leetcode",
+        "number": "21",
+        "name": "merge-two-sorted-lists",
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists/description/"
+    },
+    {
+        "platform": "leetcode",
+        "number": "26",
+        "name": "remove-duplicates-from-sorted-array",
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/"
+    }
+]
