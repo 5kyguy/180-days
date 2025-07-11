@@ -1,0 +1,32 @@
+[
+    {
+        "platform": "leetcode",
+        "number": "28",
+        "name": "find-the-index-of-the-first-occurrence-in-a-string",
+        "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/"
+    },
+    {
+        "platform": "leetcode",
+        "number": "70",
+        "name": "climbing-stairs",
+        "link": "https://leetcode.com/problems/climbing-stairs/description/"
+    },
+    {
+        "platform": "leetcode",
+        "number": "88",
+        "name": "merge-sorted-array",
+        "link": "https://leetcode.com/problems/merge-sorted-array/description/"
+    },
+    {
+        "platform": "leetcode",
+        "number": "205",
+        "name": "isomorphic-strings",
+        "link": "https://leetcode.com/problems/isomorphic-strings/description/"
+    },
+    {
+        "platform": "leetcode",
+        "number": "231",
+        "name": "power-of-two",
+        "link": "https://leetcode.com/problems/power-of-two/description/"
+    }
+]
